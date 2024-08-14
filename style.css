@@ -1,0 +1,91 @@
+body {
+background-color: #b4b4b4;
+}
+
+.selamat-datang {
+    background-color: #FFDA76;
+    border-radius: 15px 10px;
+    width: 100%;
+    height: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.porto {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    color: #b4b4b4;
+}
+
+.nama-saya {
+    font-size: 30px;
+}
+
+.fotprof {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bold-600 {
+    width: 40%;
+    font-weight: 600;
+    font-size: 30px;
+    background-color: #FFDA76;
+    color: #B4D6CD;
+    border-radius: 15px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.kelas {
+    font-size: 30px;
+}
+
+.vidio {
+    background: #B4D6CD;
+  }
+  
+  .vidio h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 200px  ;
+    color: #000;
+  }
+  
+  .vidio-cinematik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .wawan {
+    background: #B4D6CD;
+    top: 100px;
+  }
+  
+  .wawan h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+  }
+  
+  .vidio-wawan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.WEBSITE {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
